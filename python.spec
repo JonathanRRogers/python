@@ -119,8 +119,8 @@
 Summary: An interpreted, interactive, object-oriented programming language
 Name: %{?scl_prefix}%{python}
 # Remember to also rebase python-docs when changing this:
-Version: 2.7.8
-Release: 16%{?dist}
+Version: 2.7.9
+Release: 1%{?dist}
 License: Python
 Group: Development/Languages
 %{?scl:Requires: %{scl}-runtime}
